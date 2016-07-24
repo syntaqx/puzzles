@@ -1,9 +1,7 @@
-# Codewars
+# Puzzles
 
-Solutions to katas (coding puzzles) at [Codewars](https://www.codewars.com).
+Solutions to various puzzle projects.
 
-If you're a Codewars user, the solutions here may spoil your experience on the
-site. I advise against reading code for katas you haven't already solved.
-
-Directories are sorted by language and Kyu/difficulty (1 being hardest, 8
-being easiest).
+If you're participating in any of these projects, the solutions here may spoil
+your experience. I advise against reading code for anything you haven't already
+solved.
